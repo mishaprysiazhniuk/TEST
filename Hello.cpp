@@ -15,5 +15,5 @@ int main()
     float d;
     
     d = sqrt(((a*a ) + (b *b))) ;
-    cout << "It's Pifagooorrorrr:" << d;
+    cout << "It's rrrPifagooorrorrr:" << d;
 }
